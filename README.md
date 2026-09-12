@@ -96,6 +96,8 @@ This was created for **ITE 393 - Application Development P3 PeTa** by:
 3. Neri, Mikael Vladimir
 4. Palis, Francis Paul - [fpaulpalis](https://github.com/fpaulpalis)
 
+Submitted To: Sir Chocen Peronilla
+
 **Original Credits:**
 - Core app: [GreenStash](https://github.com/Pool-Of-Tears/GreenStash) by [Stɑrry Shivɑm](https://github.com/starry-shivam) and [Pool-Of-Tears](https://github.com/Pool-Of-Tears) contributors
 - This fork contains project-specific modifications for academic purposes.
